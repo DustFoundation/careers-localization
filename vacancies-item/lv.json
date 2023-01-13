@@ -1,4 +1,7 @@
 {
   "careers": "Darbavietas",
-  "open": "Atvērt"
+  "form": {
+    "title": "Veidlapas aizpildīšana",
+    "button": "Lai nosūtītu CV"
+  }
 }

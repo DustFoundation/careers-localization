@@ -1,4 +1,7 @@
 {
   "careers": "Lavori",
-  "open": "Aprire"
+  "form": {
+    "title": "Compilando il modulo",
+    "button": "Per inviare un curriculum"
+  }
 }

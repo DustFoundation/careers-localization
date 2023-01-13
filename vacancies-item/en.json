@@ -1,4 +1,7 @@
 {
   "careers": "Careers",
-  "open": "Open"
+  "form": {
+    "title": "Filling out the form",
+    "button": "Send a resume"
+  }
 }

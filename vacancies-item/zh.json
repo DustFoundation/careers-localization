@@ -1,4 +1,7 @@
 {
   "careers": "職位",
-  "open": "打開"
+  "form": {
+    "title": "填寫表格",
+    "button": "發送簡歷"
+  }
 }
