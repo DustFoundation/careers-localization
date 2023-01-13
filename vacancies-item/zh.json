@@ -2,6 +2,17 @@
   "careers": "職位",
   "form": {
     "title": "填寫表格",
-    "button": "發送簡歷"
+    "button": "發送簡歷",
+    "name": "名稱",
+    "mail": "郵件",
+    "resume": "概括",
+    "upload_file": "上傳文件",
+    "file_extensions": "以 PDF, DOC, DOC(X) 或 ODT 格式上傳您的文檔。",
+    "transmittal_letter": "送文函",
+    "required": "該字段是必需的",
+    "min_length": "最小長度 {{ min }} {min, plural, =1 {象徵} =2 {象徵} =3 {象徵} =4 {象徵} other {人物}}",
+    "max_length": "最大長度 {{ max }} {max, plural, =1 {象徵} =2 {象徵} =3 {象徵} =4 {象徵} other {人物}}",
+    "invalid_email": "無效的 email",
+    "send": "發送簡歷"
   }
 }

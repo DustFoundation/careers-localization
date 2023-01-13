@@ -2,6 +2,17 @@
   "careers": "Careers",
   "form": {
     "title": "Filling out the form",
-    "button": "Send a resume"
+    "button": "Send a resume",
+    "name": "Name",
+    "mail": "Mail",
+    "resume": "Resume",
+    "upload_file": "Upload file",
+    "file_extensions": "Upload your document in PDF, DOC, DOC(X) or ODT format.",
+    "transmittal_letter": "Transmittal letter",
+    "required": "The field is required",
+    "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}",
+    "max_length": "Максимальная длина {{ max }} {max, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}",
+    "invalid_email": "Invalid email",
+    "send": "Send resume"
   }
 }

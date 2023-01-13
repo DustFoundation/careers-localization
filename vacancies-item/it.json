@@ -2,6 +2,17 @@
   "careers": "Lavori",
   "form": {
     "title": "Compilando il modulo",
-    "button": "Per inviare un curriculum"
+    "button": "Per inviare un curriculum",
+    "name": "Nome",
+    "mail": "Posta",
+    "resume": "Riepilogo",
+    "upload_file": "Caricare un file",
+    "file_extensions": "Carica il tuo documento in formato PDF, DOC, DOC(X) o ODT.",
+    "transmittal_letter": "Lettera di trasmissione",
+    "required": "Il campo è obbligatorio",
+    "min_length": "Lunghezza minima {{ min }} {min, plural, =1 {simbolo} =2 {simbolo} =3 {simbolo} =4 {simbolo} other {personaggi}}",
+    "max_length": "Lunghezza massima {{ max }} {max, plural, =1 {simbolo} =2 {simbolo} =3 {simbolo} =4 {simbolo} other {personaggi}}",
+    "invalid_email": "Non valido email",
+    "send": "Per inviare un curriculum"
   }
 }

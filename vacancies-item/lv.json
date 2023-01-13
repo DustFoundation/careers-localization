@@ -2,6 +2,17 @@
   "careers": "Darbavietas",
   "form": {
     "title": "Veidlapas aizpildīšana",
-    "button": "Lai nosūtītu CV"
+    "button": "Lai nosūtītu CV",
+    "name": "Vārds",
+    "mail": "Pasts",
+    "resume": "Kopsavilkums",
+    "upload_file": "Augšupielādēt failu",
+    "file_extensions": "Augšupielādējiet savu dokumentu PDF, DOC, DOC(X) vai ODT formātā.",
+    "transmittal_letter": "Pārraides vēstule",
+    "required": "Lauks ir jāaizpilda obligāti",
+    "min_length": "Minimālais garums {{ min }} {min, plural, =1 {simbols} =2 {simbols} =3 {simbols} =4 {simbols} other {simbols}}",
+    "max_length": "Maksimālais garums {{ max }} {max, plural, =1 {simbols} =2 {simbols} =3 {simbols} =4 {simbols} other {simbols}}",
+    "invalid_email": "Nederīgs email",
+    "send": "Lai nosūtītu CV"
   }
 }
